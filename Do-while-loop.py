@@ -8,4 +8,5 @@ while True:
 
     if(a>10):
         print("The End")
+        
         break
